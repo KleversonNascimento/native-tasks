@@ -35,6 +35,35 @@
 			<key>uniqueIdentifier</key>
 			<string>40E487CF-C811-4360-BF94-AF86A6A7C3DF</string>
 		</dict>
+		<key>C26A714B-1EBA-403B-85B2-17E6614E2B03</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C26A714B-1EBA-403B-85B2-17E6614E2B03.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>tasksss project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tasksss</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project tasksss with scheme tasksss and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568057645.13192594</real>
+			<key>timeStoppedRecording</key>
+			<real>568057661.32781196</real>
+			<key>title</key>
+			<string>Building project tasksss with scheme tasksss and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C26A714B-1EBA-403B-85B2-17E6614E2B03</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
